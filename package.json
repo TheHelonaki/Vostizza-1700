@@ -1,0 +1,22 @@
+{
+  "name": "vostizza-1700",
+  "version": "1.0.0",
+  "description": "Map of Vostizza features in 1700",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHelonaki/Vostizza-1700.git"
+  },
+  "author": "Jennifer E. Glaubius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheHelonaki/Vostizza-1700/issues"
+  },
+  "homepage": "https://github.com/TheHelonaki/Vostizza-1700#readme",
+  "dependencies": {
+    "leaflet": "^1.6.0"
+  }
+}
